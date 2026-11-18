@@ -1,0 +1,10 @@
+[project]
+name = "cs-a3"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "cryptography>=50.0.2",
+    "requests-http-signature>=2.0.0",
+]
